@@ -81,8 +81,8 @@ One problem is that low-impact cards, by definition, barely promote or anti-prom
 
 Here are a couple plots of the first 4 components:
 
-<div align="center"><img src="Images/c1 vs c2.png" alt="Components 1 and 2" width=600></div>
-<div align="center"><img src="Images/c3 vs c4.png" alt="Components 2 and 3" width=600></div>
+<div align="center"><img src="Images/c1 vs c2.png" alt="Components 1 and 2" width=900></div>
+<div align="center"><img src="Images/c3 vs c4.png" alt="Components 2 and 3" width=900></div>
 
 Note that in each graph, the different cards are assigned different colors.  These colors are based on Label Propagation, using cluster seeds that I chose.  The clusters are not entirely accurate reflections of commonly discussed card categories, but are simply there to make the graphs more interpretable by experienced *Dominion* players.
 
@@ -99,8 +99,8 @@ The fraction of variance explained by each component was [0.24399325  0.20182445
 
 I can also show which cards are most loved or most promoted by each component.  For instance, we can show that cards with high component 1 tend to love and promote cards with low component 1.  This is true of most of the components, but the opposite is true of component 4.  Cards with high component 4 tend to love and promote each other.  This means that most components describe opposite types of cards that complement each other, but component 4 instead describes cards that are best for two divergent strategies.
 
-<div align="center"><img src="Images/c1 vs c1L.png" alt="Component 1 vs Loved by Component 1" width=600></div>
-<div align="center"><img src="Images/c4 vs c4L.png" alt="Component 4 vs Loved by Component 4" width=600></div>
+<div align="center"><img src="Images/c1 vs c1L.png" alt="Component 1 vs Loved by Component 1" width=900></div>
+<div align="center"><img src="Images/c4 vs c4L.png" alt="Component 4 vs Loved by Component 4" width=900></div>
 
 This analysis was shared and discussed on the Dominion forums (upcoming).
 

@@ -17,7 +17,7 @@ Additionally, using the insight gained in measuring the impact factor, I define 
 1. I parsed ~140k game logs, in order to extract the set of cards gained by each player in each game. 
 2. I calculated the impact factor for each card.  I ranked the cards by impact factor and shared the list [on the *Dominion* forums](http://forum.dominionstrategy.com/index.php?topic=18577.0) for feedback.
 3. I defined synergy relations between pairs of cards, and used this to create a list of features for each card.  The features are weighted to distinguish between types of cards, as opposed to power levels of cards.  I applied PCA and semi-supervised clustering to these features.
-4. I generated graphs showing the PCA and cluster analysis.  These were shared on the *Dominion* forums for feedback (upcoming).
+4. I generated graphs showing the PCA and cluster analysis.  These were shared [on the *Dominion* forums](http://forum.dominionstrategy.com/index.php?topic=18629.0) for feedback.
 
 ## Background
 
@@ -38,7 +38,7 @@ Additionally, using the insight gained in measuring the impact factor, I define 
 **Promotion relation** - For two kingdom piles X and Y, I say that X promotes Y if the gain percentage of Y is increased when X is present.  This is quantified by prom(X,Y).
 
 **Love relation** - For two kingdom piles X and Y, I say that X loves Y if the gain percentage of X is increased relative to other piles, when Y is present.  This is quantified by love(X,Y).  love(X,Y) is related to prom(Y,X) by the following expression:
-$$love(X,Y) = prom(Y,X) - \sum_{Y_i} prom(Y_i,X) / N$$
+love(X,Y) = prom(Y,X) - sum_{Y_i} prom(Y_i,X) / N
 
 **Principal Component Analysis (PCA)** - PCA is a standard unsupervised machine learning technique.  It tries to describe the variance in a set of data using a small number of dimensions ("components").
 
@@ -102,7 +102,7 @@ I can also show which cards are most loved or most promoted by each component.  
 <div align="center"><img src="Images/c1 vs c1L.png" alt="Component 1 vs Loved by Component 1" width=900></div>
 <div align="center"><img src="Images/c4 vs c4L.png" alt="Component 4 vs Loved by Component 4" width=900></div>
 
-This analysis was shared and discussed on the Dominion forums (upcoming).
+This analysis was shared and discussed [on the *Dominion* forums](http://forum.dominionstrategy.com/index.php?topic=18629.0).
 
 ## Conclusions
 

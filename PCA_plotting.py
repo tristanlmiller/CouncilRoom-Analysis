@@ -14,6 +14,7 @@ from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 import sklearn.semi_supervised as semi
 from sklearn.cluster import SpectralClustering as spectral
+import adjustText
 
 #When you create an instance of this class, it loads all the information about the PCA and clustering models
 #this is used to create maps
@@ -23,12 +24,20 @@ class card_model:
             self.reduced_vectors, self.model_components, self.kingdom_list, self.cluster_labels = pickle.load(f)
             self.label_size = 10
             self.figure_size = (10,8)
+            self.adjust_text = False
+            self.repel_strength = 0.01
     
     def set_figure_size(self,width,height):
         self.figure_size = (width,height)
         
     def set_label_size(self,size):
         self.label_size = size
+    
+    #This can be set to True in order to adjust the positions of text labels to make them overlap less
+    #this takes a long time, and is not always effective
+    def set_adjust_text(self,adjust_text, repel_strength=0.01):
+        self.adjust_text = adjust_text
+        self.repel_strength = repel_strength
     
     def pca_map_color(self,axis1,axis2,axis1_type='card',axis2_type='card'):
         plt.figure(figsize=self.figure_size)
@@ -57,7 +66,14 @@ class card_model:
             raise Exception('Must choose "card","prom", or "love" as axis type.')
 
         plt.scatter(component1, component2,lw=0,s=30,c=self.cluster_labels,cmap=plt.cm.Dark2)
+        
+        texts = []
         for label, x, y in zip(self.kingdom_list, component1, component2):
-            #plt.text(x,y+.1,label,ha='center', va='center')
-            plt.annotate(label, xy = (x,y),xytext = (0,self.label_size*0.6),textcoords='offset points',ha='center',fontsize=self.label_size)
+            if(self.adjust_text):
+                texts.append(plt.text(x,y,label,fontsize=self.label_size))
+            else:
+                plt.annotate(label, xy = (x,y),xytext = (0,self.label_size*0.6),
+                             textcoords='offset points',ha='center',fontsize=self.label_size)
+        if(self.adjust_text):
+            adjustText.adjust_text(texts,force_text=self.repel_strength,arrowprops=dict(arrowstyle="-", color='k', lw=0.5),text_from_points=False,expand_text=(1,1))
         plt.show()

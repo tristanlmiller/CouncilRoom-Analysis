@@ -1,0 +1,514 @@
+,Card,Set,Category,2011,2012,2013,2014,2015,2016,2017,2018
+0,Peasant,Adventures,0-2 cost,,,,,3.0,3.0,2.0,1.0
+1,Chapel,Base,0-2 cost,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0
+2,Page,Adventures,0-2 cost,,,,,2.0,2.0,3.0,3.0
+3,Encampment,Empires,0-2 cost,,,,,,12.0,5.0,4.0
+4,Monastery,Nocturne,0-2 cost,,,,,,,4.0,5.0
+5,Stonemason,Guilds,0-2 cost,,,,8.0,4.0,4.0,7.0,6.0
+6,Raze,Adventures,0-2 cost,,,,,15.0,7.0,6.0,7.0
+7,Save,Adventures,0-2 cost,,,,,18.0,10.0,12.0,8.0
+8,Lurker,Intrigue,0-2 cost,,,,,,,11.0,9.0
+9,Hamlet,Cornucopia,0-2 cost,2.0,2.0,2.0,4.0,7.0,5.0,10.0,10.0
+10,Alms,Adventures,0-2 cost,,,,,14.0,11.0,8.0,11.0
+11,Ratcatcher,Adventures,0-2 cost,,,,,10.0,13.0,13.0,12.0
+12,Coin of the Realm,Adventures,0-2 cost,,,,,13.0,6.0,9.0,13.0
+13,Borrow,Adventures,0-2 cost,,,,,16.0,16.0,16.0,14.0
+14,Lackeys,Renaissance,0-2 cost,,,,,,,,15.0
+15,Travelling Fair,Adventures,0-2 cost,,,,,19.0,21.0,15.0,16.0
+16,Lighthouse,Seaside,0-2 cost,4.0,4.0,5.0,6.0,8.0,14.0,17.0,17.0
+17,Pixie,Nocturne,0-2 cost,,,,,,,24.0,18.0
+18,Courtyard,Intrigue,0-2 cost,3.0,3.0,3.0,3.0,5.0,8.0,14.0,19.0
+19,Squire,Dark Ages,0-2 cost,,,6.0,5.0,9.0,15.0,18.0,20.0
+20,Fool's Gold,Hinterlands,0-2 cost,5.0,5.0,4.0,2.0,6.0,9.0,22.0,21.0
+21,Native Village,Seaside,0-2 cost,9.0,8.0,10.0,10.0,17.0,22.0,26.0,22.0
+22,Crossroads,Hinterlands,0-2 cost,7.0,6.0,7.0,9.0,12.0,19.0,20.0,23.0
+23,Border Guard,Renaissance,0-2 cost,,,,,,,,24.0
+24,Delve,Empires,0-2 cost,,,,,,20.0,19.0,25.0
+25,Patrician,Empires,0-2 cost,,,,,,26.0,28.0,26.0
+26,Candlestick Maker,Guilds,0-2 cost,,,,7.0,11.0,17.0,21.0,27.0
+27,Guardian,Nocturne,0-2 cost,,,,,,,25.0,28.0
+28,Scouting Party,Adventures,0-2 cost,,,,,26.0,25.0,27.0,29.0
+29,Ducat,Renaissance,0-2 cost,,,,,,,,30.0
+30,Advance,Empires,0-2 cost,,,,,,18.0,23.0,31.0
+31,Pawn,Intrigue,0-2 cost,8.0,9.0,9.0,11.0,21.0,23.0,31.0,32.0
+32,Settlers,Empires,0-2 cost,,,,,,24.0,30.0,33.0
+33,Cellar,Base,0-2 cost,10.0,11.0,13.0,13.0,20.0,27.0,33.0,34.0
+34,Haven,Seaside,0-2 cost,6.0,7.0,8.0,12.0,22.0,28.0,32.0,35.0
+35,Druid,Nocturne,0-2 cost,,,,,,,34.0,36.0
+36,Tracker,Nocturne,0-2 cost,,,,,,,29.0,37.0
+37,Moat,Base,0-2 cost,12.0,12.0,16.0,17.0,24.0,31.0,36.0,38.0
+38,Faithful Hound,Nocturne,0-2 cost,,,,,,,37.0,39.0
+39,Vagrant,Dark Ages,0-2 cost,,,15.0,16.0,23.0,30.0,35.0,40.0
+40,Poor House,Dark Ages,0-2 cost,,,12.0,15.0,25.0,29.0,38.0,41.0
+41,Pearl Diver,Seaside,0-2 cost,14.0,14.0,18.0,20.0,30.0,37.0,42.0,42.0
+42,Herbalist,Alchemy,0-2 cost,13.0,13.0,17.0,19.0,31.0,36.0,41.0,43.0
+43,Embargo,Seaside,0-2 cost,11.0,10.0,11.0,14.0,28.0,34.0,43.0,44.0
+44,Quest,Adventures,0-2 cost,,,,,27.0,33.0,39.0,45.0
+45,Beggar,Dark Ages,0-2 cost,,,14.0,18.0,29.0,35.0,44.0,46.0
+46,Tax,Empires,0-2 cost,,,,,,32.0,40.0,47.0
+47,Duchess,Hinterlands,0-2 cost,16.0,15.0,19.0,21.0,33.0,39.0,45.0,48.0
+48,Secret Chamber,Intrigue,0-2 cost,15.0,16.0,20.0,22.0,32.0,38.0,,
+49,Ambassador,Seaside,3 cost,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+50,Masquerade,Intrigue,3 cost,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0
+51,Steward,Intrigue,3 cost,4.0,5.0,6.0,4.0,4.0,3.0,3.0,3.0
+52,Cathedral,Renaissance,3 cost,,,,,,,,4.0
+53,Urchin,Dark Ages,3 cost,,,16.0,11.0,3.0,5.0,4.0,5.0
+54,Ferry,Adventures,3 cost,,,,,8.0,7.0,9.0,6.0
+55,Amulet,Adventures,3 cost,,,,,10.0,11.0,7.0,7.0
+56,Black Market,Promo,3 cost,15.0,15.0,21.0,18.0,13.0,13.0,12.0,8.0
+57,Fishing Village,Seaside,3 cost,3.0,3.0,3.0,3.0,5.0,4.0,5.0,9.0
+58,Swindler,Intrigue,3 cost,7.0,6.0,5.0,5.0,6.0,6.0,6.0,10.0
+59,Star Chart,Renaissance,3 cost,,,,,,,,11.0
+60,Menagerie,Cornucopia,3 cost,5.0,4.0,4.0,6.0,9.0,9.0,13.0,12.0
+61,Bonfire,Adventures,3 cost,,,,,21.0,15.0,10.0,13.0
+62,Forager,Dark Ages,3 cost,,,13.0,7.0,7.0,10.0,11.0,14.0
+63,Gear,Adventures,3 cost,,,,,14.0,8.0,8.0,15.0
+64,Hermit,Dark Ages,3 cost,,,11.0,9.0,12.0,12.0,16.0,16.0
+65,Sewers,Renaissance,3 cost,,,,,,,,17.0
+66,Dungeon,Adventures,3 cost,,,,,18.0,18.0,14.0,18.0
+67,Village,Base,3 cost,12.0,11.0,15.0,14.0,19.0,16.0,15.0,19.0
+68,Plan,Adventures,3 cost,,,,,31.0,24.0,21.0,20.0
+69,Catapult,Empires,3 cost,,,,,,27.0,18.0,21.0
+70,Lookout,Seaside,3 cost,11.0,13.0,20.0,21.0,23.0,20.0,17.0,22.0
+71,Scheme,Hinterlands,3 cost,10.0,8.0,9.0,12.0,17.0,17.0,23.0,23.0
+72,Experiment,Renaissance,3 cost,,,,,,,,24.0
+73,Ghost Town,Nocturne,3 cost,,,,,,,20.0,25.0
+74,Chariot Race,Empires,3 cost,,,,,,30.0,22.0,26.0
+75,Enchantress,Empires,3 cost,,,,,,22.0,19.0,27.0
+76,Doctor,Guilds,3 cost,,,,16.0,24.0,28.0,27.0,28.0
+77,Watchtower,Prosperity,3 cost,8.0,10.0,8.0,8.0,11.0,14.0,24.0,29.0
+78,Market Square,Dark Ages,3 cost,,,10.0,13.0,20.0,21.0,28.0,30.0
+79,Cargo Ship,Renaissance,3 cost,,,,,,,,31.0
+80,Warehouse,Seaside,3 cost,6.0,7.0,7.0,10.0,15.0,19.0,25.0,32.0
+81,Pageant,Renaissance,3 cost,,,,,,,,33.0
+82,Acting Troupe,Renaissance,3 cost,,,,,,,,34.0
+83,Improve,Renaissance,3 cost,,,,,,,,35.0
+84,Smugglers,Seaside,3 cost,20.0,20.0,26.0,26.0,30.0,33.0,34.0,36.0
+85,Wishing Well,Intrigue,3 cost,18.0,16.0,24.0,24.0,25.0,26.0,31.0,37.0
+86,Loan,Prosperity,3 cost,13.0,18.0,25.0,28.0,35.0,37.0,29.0,38.0
+87,Expedition,Adventures,3 cost,,,,,22.0,25.0,30.0,39.0
+88,Shanty Town,Intrigue,3 cost,19.0,19.0,22.0,23.0,29.0,31.0,32.0,40.0
+89,Changeling,Nocturne,3 cost,,,,,,,26.0,41.0
+90,Workshop,Base,3 cost,22.0,22.0,29.0,30.0,34.0,43.0,37.0,42.0
+91,Guide,Adventures,3 cost,,,,,16.0,23.0,35.0,43.0
+92,Merchant,Base,3 cost,,,,,,,36.0,44.0
+93,City Gate,Renaissance,3 cost,,,,,,,,45.0
+94,Oracle,Hinterlands,3 cost,21.0,12.0,14.0,15.0,27.0,34.0,39.0,46.0
+95,Gladiator,Empires,3 cost,,,,,,29.0,43.0,47.0
+96,Develop,Hinterlands,3 cost,26.0,25.0,30.0,31.0,37.0,39.0,38.0,48.0
+97,Vassal,Base,3 cost,,,,,,,45.0,49.0
+98,Night Watchman,Nocturne,3 cost,,,,,,,33.0,50.0
+99,Leprechaun,Nocturne,3 cost,,,,,,,40.0,51.0
+100,Oasis,Hinterlands,3 cost,16.0,14.0,19.0,19.0,28.0,35.0,42.0,52.0
+101,Farmers' Market,Empires,3 cost,,,,,,32.0,41.0,53.0
+102,Storeroom,Dark Ages,3 cost,,,17.0,20.0,26.0,36.0,44.0,54.0
+103,Secret Cave,Nocturne,3 cost,,,,,,,46.0,55.0
+104,Trade Route,Prosperity,3 cost,14.0,17.0,23.0,27.0,39.0,41.0,47.0,56.0
+105,Caravan Guard,Adventures,3 cost,,,,,33.0,40.0,48.0,57.0
+106,Tunnel,Hinterlands,3 cost,9.0,9.0,12.0,17.0,32.0,38.0,50.0,58.0
+107,Sage,Dark Ages,3 cost,,,18.0,25.0,36.0,44.0,51.0,59.0
+108,Fool,Nocturne,3 cost,,,,,,,52.0,60.0
+109,Harbinger,Base,3 cost,,,,,,,49.0,61.0
+110,Masterpiece,Guilds,3 cost,,,,22.0,38.0,45.0,55.0,62.0
+111,Banquet,Empires,3 cost,,,,,,42.0,53.0,63.0
+112,Fortune Teller,Cornucopia,3 cost,23.0,23.0,27.0,29.0,40.0,46.0,54.0,64.0
+113,Woodcutter,Base,3 cost,24.0,24.0,31.0,33.0,41.0,47.0,,
+114,Great Hall,Intrigue,3 cost,17.0,21.0,28.0,32.0,42.0,48.0,,
+115,Chancellor,Base,3 cost,25.0,26.0,32.0,34.0,43.0,49.0,,
+116,Remake,Cornucopia,4 cost,4.0,4.0,3.0,3.0,1.0,1.0,1.0,1.0
+117,Bridge,Intrigue,4 cost,13.0,11.0,10.0,10.0,8.0,8.0,6.0,2.0
+118,Tournament,Cornucopia,4 cost,3.0,3.0,4.0,2.0,2.0,2.0,2.0,3.0
+119,Wandering Minstrel,Dark Ages,4 cost,,,28.0,7.0,6.0,3.0,3.0,4.0
+120,Villa,Empires,4 cost,,,,,,10.0,7.0,5.0
+121,Sauna,Promo,4 cost,,,,,,,4.0,6.0
+122,Throne Room,Base,4 cost,18.0,21.0,15.0,17.0,12.0,9.0,9.0,7.0
+123,Spice Merchant,Hinterlands,4 cost,22.0,28.0,23.0,15.0,13.0,14.0,8.0,8.0
+124,Ironmonger,Dark Ages,4 cost,,,13.0,5.0,3.0,4.0,5.0,9.0
+125,Magpie,Adventures,4 cost,,,,,5.0,7.0,13.0,10.0
+126,Inventor,Renaissance,4 cost,,,,,,,,11.0
+127,Port,Adventures,4 cost,,,,,19.0,12.0,10.0,12.0
+128,Worker's Village,Prosperity,4 cost,23.0,16.0,17.0,14.0,20.0,17.0,11.0,13.0
+129,Herald,Guilds,4 cost,,,,18.0,7.0,5.0,12.0,14.0
+130,Sinister Plot,Renaissance,4 cost,,,,,,,,15.0
+131,Militia,Base,4 cost,8.0,8.0,7.0,9.0,11.0,16.0,14.0,16.0
+132,Quarry,Prosperity,4 cost,24.0,26.0,35.0,23.0,23.0,18.0,17.0,17.0
+133,Silk Merchant,Renaissance,4 cost,,,,,,,,18.0
+134,Exorcist,Nocturne,4 cost,,,,,,,34.0,19.0
+135,Hideout,Renaissance,4 cost,,,,,,,,20.0
+136,Priest,Renaissance,4 cost,,,,,,,,21.0
+137,Shepherd,Nocturne,4 cost,,,,,,,18.0,22.0
+138,Moneylender,Base,4 cost,9.0,20.0,26.0,26.0,29.0,34.0,29.0,23.0
+139,Smithy,Base,4 cost,16.0,15.0,18.0,19.0,18.0,15.0,19.0,24.0
+140,Blessed Village,Nocturne,4 cost,,,,,,,26.0,25.0
+141,Mountain Village,Renaissance,4 cost,,,,,,,,26.0
+142,Fortress,Dark Ages,4 cost,,,29.0,30.0,31.0,23.0,16.0,27.0
+143,Plaza,Guilds,4 cost,,,,16.0,21.0,21.0,15.0,28.0
+144,Conspirator,Intrigue,4 cost,17.0,17.0,14.0,20.0,22.0,19.0,24.0,29.0
+145,Procession,Dark Ages,4 cost,,,25.0,35.0,25.0,28.0,21.0,30.0
+146,Jack of all Trades,Hinterlands,4 cost,1.0,2.0,2.0,4.0,4.0,6.0,25.0,31.0
+147,Envoy,Promo,4 cost,12.0,12.0,19.0,27.0,26.0,30.0,38.0,32.0
+148,Caravan,Seaside,4 cost,7.0,10.0,8.0,12.0,16.0,26.0,20.0,33.0
+149,Sea Hag,Seaside,4 cost,2.0,1.0,1.0,1.0,9.0,13.0,32.0,34.0
+150,Mission,Adventures,4 cost,,,,,36.0,41.0,44.0,35.0
+151,Salvager,Seaside,4 cost,11.0,9.0,12.0,21.0,24.0,32.0,30.0,36.0
+152,Ironworks,Intrigue,4 cost,30.0,29.0,37.0,22.0,30.0,27.0,36.0,37.0
+153,Sacrifice,Empires,4 cost,,,,,,25.0,28.0,38.0
+154,Devil's Workshop,Nocturne,4 cost,,,,,,,27.0,39.0
+155,Advisor,Guilds,4 cost,,,,39.0,32.0,38.0,35.0,40.0
+156,Temple,Empires,4 cost,,,,,,20.0,33.0,41.0
+157,Mining Village,Intrigue,4 cost,19.0,19.0,24.0,33.0,38.0,37.0,31.0,42.0
+158,Farming Village,Cornucopia,4 cost,21.0,22.0,30.0,28.0,35.0,36.0,40.0,43.0
+159,Transmogrify,Adventures,4 cost,,,,,28.0,29.0,41.0,44.0
+160,Young Witch,Cornucopia,4 cost,5.0,5.0,5.0,6.0,10.0,11.0,23.0,45.0
+161,Cemetery,Nocturne,4 cost,,,,,,,42.0,46.0
+162,Marauder,Dark Ages,4 cost,,,11.0,13.0,14.0,22.0,22.0,47.0
+163,Engineer,Empires,4 cost,,,,,,46.0,43.0,48.0
+164,Conclave,Nocturne,4 cost,,,,,,,45.0,49.0
+165,Research,Renaissance,4 cost,,,,,,,,50.0
+166,Ranger,Adventures,4 cost,,,,,34.0,35.0,50.0,51.0
+167,Mill,Intrigue,4 cost,,,,,,,37.0,52.0
+168,Remodel,Base,4 cost,29.0,30.0,38.0,34.0,39.0,40.0,49.0,53.0
+169,Diplomat,Intrigue,4 cost,,,,,,,39.0,54.0
+170,Necromancer,Nocturne,4 cost,,,,,,,54.0,55.0
+171,Bishop,Prosperity,4 cost,6.0,7.0,9.0,11.0,17.0,31.0,47.0,56.0
+172,Patron,Renaissance,4 cost,,,,,,,,57.0
+173,Walled Village,Promo,4 cost,35.0,32.0,39.0,43.0,48.0,44.0,46.0,58.0
+174,Flag Bearer,Renaissance,4 cost,,,,,,,,59.0
+175,Fair,Renaissance,4 cost,,,,,,,,60.0
+176,Skulk,Nocturne,4 cost,,,,,,,52.0,61.0
+177,Duplicate,Adventures,4 cost,,,,,27.0,39.0,53.0,62.0
+178,Silos,Renaissance,4 cost,,,,,,,,63.0
+179,Monument,Prosperity,4 cost,10.0,6.0,6.0,8.0,15.0,24.0,48.0,64.0
+180,Poacher,Base,4 cost,,,,,,,51.0,65.0
+181,Scavenger,Dark Ages,4 cost,,,33.0,25.0,37.0,42.0,58.0,66.0
+182,Armory,Dark Ages,4 cost,,,41.0,41.0,46.0,52.0,55.0,67.0
+183,Baron,Intrigue,4 cost,25.0,24.0,27.0,36.0,45.0,47.0,63.0,68.0
+184,Pilgrimage,Adventures,4 cost,,,,,42.0,48.0,60.0,69.0
+185,Dismantle,Promo,4 cost,,,,,,,,70.0
+186,Secret Passage,Intrigue,4 cost,,,,,,,56.0,71.0
+187,Salt the Earth,Empires,4 cost,,,,,,33.0,61.0,72.0
+188,Horse Traders,Cornucopia,4 cost,14.0,18.0,20.0,24.0,33.0,43.0,59.0,73.0
+189,Messenger,Adventures,4 cost,,,,,51.0,56.0,62.0,74.0
+190,Miser,Adventures,4 cost,,,,,43.0,53.0,64.0,75.0
+191,Cutpurse,Seaside,4 cost,26.0,23.0,32.0,32.0,40.0,45.0,57.0,76.0
+192,Rats,Dark Ages,4 cost,,,46.0,47.0,55.0,60.0,68.0,77.0
+193,Exploration,Renaissance,4 cost,,,,,,,,78.0
+194,Bard,Nocturne,4 cost,,,,,,,67.0,79.0
+195,Trader,Hinterlands,4 cost,27.0,27.0,36.0,38.0,49.0,54.0,69.0,80.0
+196,Gardens,Base,4 cost,15.0,14.0,21.0,29.0,41.0,49.0,65.0,81.0
+197,Island,Seaside,4 cost,20.0,25.0,31.0,37.0,47.0,55.0,66.0,82.0
+198,Talisman,Prosperity,4 cost,40.0,40.0,49.0,48.0,56.0,62.0,74.0,83.0
+199,Nomad Camp,Hinterlands,4 cost,36.0,33.0,42.0,46.0,53.0,59.0,71.0,84.0
+200,Death Cart,Dark Ages,4 cost,,,22.0,40.0,50.0,58.0,72.0,85.0
+201,Silk Road,Hinterlands,4 cost,28.0,13.0,16.0,31.0,44.0,51.0,70.0,86.0
+202,Rocks,Empires,4 cost,,,,,,66.0,73.0,87.0
+203,Feodum,Dark Ages,4 cost,,,34.0,42.0,52.0,57.0,76.0,88.0
+204,Treasure Map,Seaside,4 cost,32.0,38.0,48.0,53.0,62.0,65.0,78.0,89.0
+205,Taxman,Guilds,4 cost,,,,45.0,57.0,61.0,75.0,90.0
+206,Ritual,Empires,4 cost,,,,,,50.0,77.0,91.0
+207,Navigator,Seaside,4 cost,37.0,36.0,47.0,52.0,64.0,68.0,80.0,92.0
+208,Noble Brigand,Hinterlands,4 cost,38.0,31.0,40.0,44.0,54.0,63.0,79.0,93.0
+209,Pirate Ship,Seaside,4 cost,34.0,37.0,44.0,49.0,61.0,70.0,82.0,94.0
+210,Bureaucrat,Base,4 cost,39.0,34.0,45.0,50.0,60.0,69.0,81.0,95.0
+211,Spy,Base,4 cost,33.0,39.0,50.0,51.0,58.0,64.0,,
+212,Coppersmith,Intrigue,4 cost,41.0,41.0,51.0,54.0,59.0,67.0,,
+213,Feast,Base,4 cost,31.0,35.0,43.0,55.0,63.0,71.0,,
+214,Thief,Base,4 cost,43.0,42.0,52.0,56.0,65.0,72.0,,
+215,Scout,Intrigue,4 cost,42.0,43.0,53.0,57.0,66.0,73.0,,
+216,Wharf,Seaside,5 cost,3.0,3.0,3.0,3.0,4.0,2.0,1.0,1.0
+217,Mountebank,Prosperity,5 cost,1.0,1.0,1.0,1.0,1.0,1.0,3.0,2.0
+218,Cultist,Dark Ages,5 cost,,,7.0,4.0,3.0,3.0,4.0,3.0
+219,Governor,Promo,5 cost,15.0,6.0,6.0,7.0,5.0,5.0,5.0,4.0
+220,Recruiter,Renaissance,5 cost,,,,,,,,5.0
+221,Sentry,Base,5 cost,,,,,,,7.0,6.0
+222,Margrave,Hinterlands,5 cost,13.0,12.0,13.0,14.0,14.0,12.0,11.0,7.0
+223,Torturer,Intrigue,5 cost,6.0,9.0,8.0,8.0,9.0,7.0,9.0,8.0
+224,Ghost Ship,Seaside,5 cost,9.0,7.0,10.0,12.0,15.0,14.0,17.0,9.0
+225,Witch,Base,5 cost,2.0,2.0,2.0,5.0,6.0,4.0,6.0,10.0
+226,Butcher,Guilds,5 cost,,,,21.0,13.0,16.0,10.0,11.0
+227,Vampire,Nocturne,5 cost,,,,,,,25.0,12.0
+228,Junk Dealer,Dark Ages,5 cost,,,32.0,11.0,7.0,8.0,2.0,13.0
+229,Hunting Party,Cornucopia,5 cost,4.0,5.0,4.0,6.0,8.0,11.0,13.0,14.0
+230,Bridge Troll,Adventures,5 cost,,,,,21.0,17.0,15.0,15.0
+231,Counterfeit,Dark Ages,5 cost,,,33.0,13.0,12.0,15.0,14.0,16.0
+232,Upgrade,Intrigue,5 cost,18.0,23.0,19.0,15.0,11.0,10.0,8.0,17.0
+233,Lost City,Adventures,5 cost,,,,,16.0,13.0,19.0,18.0
+234,Highway,Hinterlands,5 cost,25.0,20.0,25.0,25.0,20.0,18.0,20.0,19.0
+235,Avanto,Promo,5 cost,,,,,,,12.0,20.0
+236,Knights,Dark Ages,5 cost,,,36.0,27.0,22.0,30.0,30.0,21.0
+237,Groundskeeper,Empires,5 cost,,,,,,52.0,22.0,22.0
+238,Horn of Plenty,Cornucopia,5 cost,30.0,28.0,30.0,31.0,26.0,28.0,34.0,23.0
+239,Old Witch,Renaissance,5 cost,,,,,,,,24.0
+240,Outpost,Seaside,5 cost,40.0,40.0,54.0,56.0,65.0,67.0,48.0,25.0
+241,Wild Hunt,Empires,5 cost,,,,,,24.0,23.0,26.0
+242,Minion,Intrigue,5 cost,5.0,8.0,9.0,9.0,10.0,9.0,18.0,27.0
+243,Royal Carriage,Adventures,5 cost,,,,,29.0,19.0,27.0,28.0
+244,Apprentice,Alchemy,5 cost,11.0,11.0,12.0,17.0,23.0,21.0,24.0,29.0
+245,Seer,Renaissance,5 cost,,,,,,,,30.0
+246,Cursed Village,Nocturne,5 cost,,,,,,,28.0,31.0
+247,Crown,Empires,5 cost,,,,,,25.0,21.0,32.0
+248,Den of Sin,Nocturne,5 cost,,,,,,,31.0,33.0
+249,Stables,Hinterlands,5 cost,16.0,17.0,18.0,22.0,28.0,29.0,32.0,34.0
+250,Count,Dark Ages,5 cost,,,24.0,32.0,25.0,20.0,26.0,35.0
+251,Laboratory,Base,5 cost,10.0,15.0,16.0,20.0,27.0,23.0,35.0,36.0
+252,Haunted Woods,Adventures,5 cost,,,,,17.0,26.0,33.0,37.0
+253,Haggler,Hinterlands,5 cost,23.0,16.0,17.0,19.0,24.0,22.0,29.0,38.0
+254,Academy,Renaissance,5 cost,,,,,,,,39.0
+255,Summon,Promo,5 cost,,,,,33.0,39.0,41.0,40.0
+256,Storyteller,Adventures,5 cost,,,,,47.0,48.0,51.0,41.0
+257,Triumph,Empires,5 cost,,,,,,46.0,46.0,42.0
+258,Treasurer,Renaissance,5 cost,,,,,,,,43.0
+259,Replace,Intrigue,5 cost,,,,,,,36.0,44.0
+260,Rebuild,Dark Ages,5 cost,,,26.0,2.0,2.0,6.0,16.0,45.0
+261,Spices,Renaissance,5 cost,,,,,,,,46.0
+262,Bazaar,Seaside,5 cost,20.0,21.0,22.0,28.0,35.0,32.0,37.0,47.0
+263,Rabble,Prosperity,5 cost,22.0,26.0,27.0,33.0,36.0,40.0,45.0,48.0
+264,City,Prosperity,5 cost,26.0,27.0,34.0,37.0,38.0,37.0,40.0,49.0
+265,Swamp Hag,Adventures,5 cost,,,,,19.0,35.0,44.0,50.0
+266,Catacombs,Dark Ages,5 cost,,,23.0,36.0,37.0,38.0,50.0,51.0
+267,Fleet,Renaissance,5 cost,,,,,,,,52.0
+268,Plunder,Empires,5 cost,,,,,,63.0,56.0,53.0
+269,Capitalism,Renaissance,5 cost,,,,,,,,54.0
+270,Swashbuckler,Renaissance,5 cost,,,,,,,,55.0
+271,Patrol,Intrigue,5 cost,,,,,,,49.0,56.0
+272,Journeyman,Guilds,5 cost,,,,35.0,42.0,49.0,43.0,57.0
+273,Werewolf,Nocturne,5 cost,,,,,,,42.0,58.0
+274,Forum,Empires,5 cost,,,,,,57.0,47.0,59.0
+275,Archive,Empires,5 cost,,,,,,50.0,52.0,60.0
+276,Tragic Hero,Nocturne,5 cost,,,,,,,78.0,61.0
+277,Artificer,Adventures,5 cost,,,,,45.0,54.0,55.0,62.0
+278,Tactician,Seaside,5 cost,8.0,10.0,11.0,16.0,18.0,27.0,38.0,63.0
+279,Sculptor,Renaissance,5 cost,,,,,,,,64.0
+280,Relic,Adventures,5 cost,,,,,55.0,41.0,53.0,65.0
+281,Bandit Camp,Dark Ages,5 cost,,,20.0,30.0,34.0,47.0,58.0,66.0
+282,Legionary,Empires,5 cost,,,,,,31.0,54.0,67.0
+283,Bustling Village,Empires,5 cost,,,,,,33.0,61.0,68.0
+284,Scepter,Renaissance,5 cost,,,,,,,,69.0
+285,Soothsayer,Guilds,5 cost,,,,18.0,31.0,34.0,39.0,70.0
+286,Council Room,Base,5 cost,29.0,35.0,42.0,42.0,50.0,51.0,62.0,71.0
+287,Merchant Guild,Guilds,5 cost,,,,41.0,48.0,55.0,57.0,72.0
+288,Guildhall,Renaissance,5 cost,,,,,,,,73.0
+289,Festival,Base,5 cost,21.0,19.0,28.0,38.0,49.0,58.0,60.0,74.0
+290,Piazza,Renaissance,5 cost,,,,,,,,75.0
+291,Scholar,Renaissance,5 cost,,,,,,,,76.0
+292,Distant Lands,Adventures,5 cost,,,,,44.0,36.0,59.0,77.0
+293,Market,Base,5 cost,31.0,32.0,40.0,40.0,52.0,69.0,69.0,78.0
+294,Ball,Adventures,5 cost,,,,,57.0,73.0,80.0,79.0
+295,Charm,Empires,5 cost,,,,,,59.0,73.0,80.0
+296,Courtier,Intrigue,5 cost,,,,,,,72.0,81.0
+297,Pooka,Nocturne,5 cost,,,,,,,83.0,82.0
+298,Emporium,Empires,5 cost,,,,,,76.0,79.0,83.0
+299,Seaway,Adventures,5 cost,,,,,62.0,71.0,71.0,84.0
+300,Baker,Guilds,5 cost,,,,23.0,40.0,45.0,63.0,85.0
+301,Ill-Gotten Gains,Hinterlands,5 cost,7.0,4.0,5.0,10.0,30.0,44.0,76.0,86.0
+302,Inn,Hinterlands,5 cost,33.0,30.0,44.0,43.0,53.0,65.0,74.0,87.0
+303,Trading Post,Intrigue,5 cost,27.0,29.0,39.0,49.0,58.0,60.0,67.0,88.0
+304,Trade,Adventures,5 cost,,,,,69.0,62.0,65.0,89.0
+305,Embassy,Hinterlands,5 cost,14.0,13.0,15.0,24.0,32.0,43.0,70.0,90.0
+306,Idol,Nocturne,5 cost,,,,,,,64.0,91.0
+307,Mint,Prosperity,5 cost,36.0,36.0,48.0,53.0,66.0,80.0,88.0,92.0
+308,Tormentor,Nocturne,5 cost,,,,,,,94.0,93.0
+309,Wine Merchant,Adventures,5 cost,,,,,68.0,68.0,86.0,94.0
+310,Jester,Cornucopia,5 cost,19.0,22.0,29.0,34.0,43.0,42.0,68.0,95.0
+311,Sacred Grove,Nocturne,5 cost,,,,,,,82.0,96.0
+312,Band of Misfits,Dark Ages,5 cost,,,38.0,44.0,54.0,66.0,85.0,97.0
+313,Giant,Adventures,5 cost,,,,,51.0,72.0,91.0,98.0
+314,Windfall,Empires,5 cost,,,,,,75.0,93.0,99.0
+315,Vault,Prosperity,5 cost,12.0,14.0,14.0,29.0,39.0,61.0,81.0,100.0
+316,Treasure Trove,Adventures,5 cost,,,,,59.0,53.0,84.0,101.0
+317,Library,Base,5 cost,35.0,34.0,43.0,45.0,56.0,70.0,89.0,102.0
+318,Cobbler,Nocturne,5 cost,,,,,,,66.0,103.0
+319,Bandit,Base,5 cost,,,,,,,92.0,104.0
+320,Capital,Empires,5 cost,,,,,,64.0,75.0,105.0
+321,Cartographer,Hinterlands,5 cost,24.0,31.0,31.0,39.0,46.0,74.0,90.0,106.0
+322,Graverobber,Dark Ages,5 cost,,,47.0,52.0,60.0,78.0,95.0,107.0
+323,Treasury,Seaside,5 cost,28.0,33.0,45.0,48.0,63.0,79.0,87.0,108.0
+324,Crypt,Nocturne,5 cost,,,,,,,77.0,109.0
+325,Rogue,Dark Ages,5 cost,,,46.0,54.0,71.0,84.0,98.0,110.0
+326,Duke,Intrigue,5 cost,32.0,18.0,21.0,26.0,41.0,56.0,96.0,111.0
+327,Villain,Renaissance,5 cost,,,,,,,,112.0
+328,Mystic,Dark Ages,5 cost,,,49.0,46.0,61.0,77.0,97.0,113.0
+329,Road Network,Renaissance,5 cost,,,,,,,,114.0
+330,Explorer,Seaside,5 cost,46.0,45.0,53.0,58.0,75.0,87.0,103.0,115.0
+331,Pillage,Dark Ages,5 cost,,,41.0,51.0,70.0,83.0,99.0,116.0
+332,Merchant Ship,Seaside,5 cost,34.0,24.0,35.0,47.0,67.0,82.0,101.0,117.0
+333,Venture,Prosperity,5 cost,17.0,25.0,37.0,50.0,64.0,81.0,100.0,118.0
+334,Mine,Base,5 cost,41.0,42.0,55.0,59.0,74.0,89.0,108.0,119.0
+335,Royal Seal,Prosperity,5 cost,37.0,37.0,50.0,60.0,76.0,88.0,106.0,120.0
+336,Contraband,Prosperity,5 cost,43.0,44.0,58.0,63.0,78.0,91.0,104.0,121.0
+337,Raid,Adventures,5 cost,,,,,72.0,85.0,102.0,122.0
+338,Mandarin,Hinterlands,5 cost,42.0,41.0,51.0,57.0,77.0,90.0,107.0,123.0
+339,Counting House,Prosperity,5 cost,48.0,48.0,61.0,66.0,83.0,93.0,105.0,124.0
+340,Cache,Hinterlands,5 cost,44.0,43.0,56.0,64.0,81.0,95.0,109.0,125.0
+341,Harvest,Cornucopia,5 cost,39.0,39.0,57.0,65.0,82.0,96.0,111.0,126.0
+342,Stash,Promo,5 cost,47.0,46.0,59.0,62.0,80.0,92.0,110.0,127.0
+343,Tribute,Intrigue,5 cost,38.0,38.0,52.0,55.0,73.0,86.0,,
+344,Saboteur,Intrigue,5 cost,45.0,47.0,60.0,61.0,79.0,94.0,,
+345,Donate,Empires,6+ cost,,,,,,2.0,1.0,1.0
+346,King's Court,Prosperity,6+ cost,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0
+347,Goons,Prosperity,6+ cost,3.0,2.0,2.0,2.0,2.0,3.0,3.0,3.0
+348,Pathfinding,Adventures,6+ cost,,,,,6.0,8.0,4.0,4.0
+349,Inheritance,Adventures,6+ cost,,,,,9.0,7.0,8.0,5.0
+350,City Quarter,Empires,6+ cost,,,,,,5.0,7.0,6.0
+351,Lost Arts,Adventures,6+ cost,,,,,4.0,9.0,6.0,7.0
+352,Border Village,Hinterlands,6+ cost,5.0,4.0,4.0,4.0,5.0,11.0,9.0,8.0
+353,Grand Market,Prosperity,6+ cost,2.0,3.0,3.0,3.0,3.0,6.0,11.0,9.0
+354,Dominate,Empires,6+ cost,,,,,,10.0,12.0,10.0
+355,Fortune,Empires,6+ cost,,,,,,4.0,5.0,11.0
+356,Overlord,Empires,6+ cost,,,,,,12.0,10.0,12.0
+357,Altar,Dark Ages,6+ cost,,,6.0,5.0,10.0,15.0,14.0,13.0
+358,Artisan,Base,6+ cost,,,,,,,13.0,14.0
+359,Citadel,Renaissance,6+ cost,,,,,,,,15.0
+360,Innovation,Renaissance,6+ cost,,,,,,,,16.0
+361,Peddler,Prosperity,6+ cost,6.0,5.0,5.0,7.0,11.0,14.0,16.0,17.0
+362,Canal,Renaissance,6+ cost,,,,,,,,18.0
+363,Nobles,Intrigue,6+ cost,8.0,7.0,7.0,6.0,12.0,19.0,18.0,19.0
+364,Hunting Grounds,Dark Ages,6+ cost,,,8.0,10.0,8.0,13.0,15.0,20.0
+365,Training,Adventures,6+ cost,,,,,14.0,20.0,19.0,21.0
+366,Hireling,Adventures,6+ cost,,,,,7.0,16.0,17.0,22.0
+367,Forge,Prosperity,6+ cost,10.0,10.0,12.0,12.0,16.0,23.0,20.0,23.0
+368,Barracks,Renaissance,6+ cost,,,,,,,,24.0
+369,Expand,Prosperity,6+ cost,9.0,11.0,13.0,14.0,18.0,26.0,25.0,25.0
+370,Royal Blacksmith,Empires,6+ cost,,,,,,18.0,21.0,26.0
+371,Crop Rotation,Renaissance,6+ cost,,,,,,,,27.0
+372,Fairgrounds,Cornucopia,6+ cost,12.0,9.0,11.0,8.0,13.0,17.0,22.0,28.0
+373,Castles,Empires,6+ cost,,,,,,21.0,23.0,29.0
+374,Prince,Promo,6+ cost,,,,,17.0,22.0,24.0,30.0
+375,Bank,Prosperity,6+ cost,7.0,8.0,10.0,11.0,19.0,24.0,26.0,31.0
+376,Hoard,Prosperity,6+ cost,4.0,6.0,9.0,9.0,15.0,25.0,27.0,32.0
+377,Conquest,Empires,6+ cost,,,,,,29.0,28.0,33.0
+378,Wedding,Empires,6+ cost,,,,,,27.0,29.0,34.0
+379,Farmland,Hinterlands,6+ cost,13.0,13.0,15.0,15.0,21.0,30.0,31.0,35.0
+380,Raider,Nocturne,6+ cost,,,,,,,30.0,36.0
+381,Harem,Intrigue,6+ cost,11.0,12.0,14.0,13.0,20.0,31.0,32.0,37.0
+382,Annex,Empires,6+ cost,,,,,,28.0,33.0,38.0
+383,Adventurer,Base,6+ cost,14.0,14.0,16.0,16.0,22.0,32.0,,
+384,Scrying Pool,,Potion cost,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0
+385,Possession,,Potion cost,8.0,8.0,8.0,8.0,6.0,8.0,5.0,2.0
+386,Familiar,,Potion cost,1.0,1.0,1.0,2.0,2.0,2.0,2.0,3.0
+387,Vineyard,,Potion cost,4.0,3.0,3.0,3.0,3.0,3.0,3.0,4.0
+388,University,,Potion cost,7.0,6.0,7.0,6.0,7.0,7.0,6.0,5.0
+389,Alchemist,,Potion cost,3.0,7.0,6.0,4.0,5.0,5.0,4.0,6.0
+390,Apothecary,,Potion cost,6.0,4.0,4.0,5.0,4.0,4.0,7.0,7.0
+391,Golem,,Potion cost,5.0,5.0,5.0,7.0,8.0,6.0,8.0,8.0
+392,Philosopher's Stone,,Potion cost,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+393,Transmute,,Potion cost,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0
+394,Ruined Market,,Ruins,,,2.0,2.0,1.0,1.0,1.0,1.0
+395,Abandoned Mine,,Ruins,,,1.0,1.0,2.0,2.0,2.0,2.0
+396,Ruined Library,,Ruins,,,4.0,4.0,4.0,4.0,3.0,3.0
+397,Survivors,,Ruins,,,3.0,3.0,3.0,3.0,4.0,4.0
+398,Ruined Village,,Ruins,,,5.0,5.0,5.0,5.0,5.0,5.0
+399,Sir Bailey,,Knights,,,2.0,2.0,2.0,2.0,2.0,1.0
+400,Dame Anna,,Knights,,,5.0,3.0,1.0,1.0,1.0,2.0
+401,Dame Molly,,Knights,,,4.0,4.0,4.0,4.0,4.0,3.0
+402,Sir Michael,,Knights,,,1.0,1.0,3.0,3.0,3.0,4.0
+403,Sir Destry,,Knights,,,6.0,5.0,5.0,5.0,5.0,5.0
+404,Dame Natalie,,Knights,,,10.0,7.0,7.0,7.0,6.0,6.0
+405,Dame Sylvia,,Knights,,,3.0,6.0,6.0,6.0,7.0,7.0
+406,Sir Martin,,Knights,,,9.0,9.0,9.0,9.0,9.0,8.0
+407,Sir Vander,,Knights,,,8.0,8.0,8.0,8.0,8.0,9.0
+408,Dame Josephine,,Knights,,,7.0,10.0,10.0,10.0,10.0,10.0
+409,Followers,,Prizes,,,1.0,1.0,1.0,1.0,1.0,1.0
+410,Trusty Steed,,Prizes,,,2.0,2.0,2.0,2.0,2.0,2.0
+411,Princess,,Prizes,,,3.0,3.0,3.0,3.0,3.0,3.0
+412,Diadem,,Prizes,,,5.0,4.0,4.0,4.0,4.0,4.0
+413,Bag of Gold,,Prizes,,,4.0,5.0,5.0,5.0,5.0,5.0
+414,Wall,,Landmarks,,,,,,1.0,2.0,1.0
+415,Keep,,Landmarks,,,,,,3.0,1.0,2.0
+416,Museum,,Landmarks,,,,,,2.0,3.0,3.0
+417,Mountain Pass,,Landmarks,,,,,,9.0,9.0,4.0
+418,Bandit Fort,,Landmarks,,,,,,5.0,10.0,5.0
+419,Tomb,,Landmarks,,,,,,12.0,5.0,6.0
+420,Wolf Den,,Landmarks,,,,,,6.0,4.0,7.0
+421,Orchard,,Landmarks,,,,,,8.0,6.0,8.0
+422,Triumphal Arch,,Landmarks,,,,,,7.0,8.0,9.0
+423,Tower,,Landmarks,,,,,,11.0,7.0,10.0
+424,Fountain,,Landmarks,,,,,,4.0,11.0,11.0
+425,Colonnade,,Landmarks,,,,,,17.0,18.0,12.0
+426,Battlefield,,Landmarks,,,,,,15.0,13.0,13.0
+427,Defiled Shrine,,Landmarks,,,,,,13.0,12.0,14.0
+428,Palace,,Landmarks,,,,,,14.0,14.0,15.0
+429,Obelisk,,Landmarks,,,,,,10.0,15.0,16.0
+430,Labyrinth,,Landmarks,,,,,,21.0,16.0,17.0
+431,Basilica,,Landmarks,,,,,,16.0,20.0,18.0
+432,Arena,,Landmarks,,,,,,18.0,17.0,19.0
+433,Aqueduct,,Landmarks,,,,,,20.0,19.0,20.0
+434,Baths,,Landmarks,,,,,,19.0,21.0,21.0
+435,Donate,,Events,,,,,,1.0,1.0,1.0
+436,Ferry,,Events,,,,,2.0,2.0,3.0,2.0
+437,Bonfire,,Events,,,,,8.0,8.0,5.0,3.0
+438,Pathfinding,,Events,,,,,3.0,3.0,2.0,4.0
+439,Inheritance,,Events,,,,,4.0,4.0,6.0,5.0
+440,Save,,Events,,,,,13.0,7.0,8.0,6.0
+441,Lost Arts,,Events,,,,,1.0,5.0,4.0,7.0
+442,Dominate,,Events,,,,,,6.0,9.0,8.0
+443,Alms,,Events,,,,,7.0,9.0,7.0,9.0
+444,Plan,,Events,,,,,16.0,19.0,11.0,10.0
+445,Summon,,Events,,,,,5.0,10.0,10.0,11.0
+446,Triumph,,Events,,,,,,12.0,13.0,12.0
+447,Borrow,,Events,,,,,11.0,11.0,12.0,13.0
+448,Mission,,Events,,,,,10.0,21.0,17.0,14.0
+449,Travelling Fair,,Events,,,,,15.0,20.0,14.0,15.0
+450,Training,,Events,,,,,6.0,15.0,16.0,16.0
+451,Ball,,Events,,,,,12.0,23.0,23.0,17.0
+452,Seaway,,Events,,,,,17.0,22.0,21.0,18.0
+453,Expedition,,Events,,,,,9.0,17.0,15.0,19.0
+454,Delve,,Events,,,,,,16.0,18.0,20.0
+455,Trade,,Events,,,,,18.0,18.0,19.0,21.0
+456,Advance,,Events,,,,,,14.0,20.0,22.0
+457,Scouting Party,,Events,,,,,20.0,24.0,22.0,23.0
+458,Pilgrimage,,Events,,,,,14.0,26.0,25.0,24.0
+459,Windfall,,Events,,,,,,27.0,26.0,25.0
+460,Salt the Earth,,Events,,,,,,13.0,24.0,26.0
+461,Wedding,,Events,,,,,,25.0,28.0,27.0
+462,Conquest,,Events,,,,,,30.0,27.0,28.0
+463,Quest,,Events,,,,,21.0,33.0,29.0,29.0
+464,Banquet,,Events,,,,,,31.0,32.0,30.0
+465,Tax,,Events,,,,,,32.0,30.0,31.0
+466,Ritual,,Events,,,,,,28.0,31.0,32.0
+467,Raid,,Events,,,,,19.0,34.0,33.0,33.0
+468,Annex,,Events,,,,,,29.0,34.0,34.0
+469,Cathedral,,Projects,,,,,,,,1.0
+470,Star Chart,,Projects,,,,,,,,2.0
+471,Sinister Plot,,Projects,,,,,,,,3.0
+472,Academy,,Projects,,,,,,,,4.0
+473,Sewers,,Projects,,,,,,,,5.0
+474,Citadel,,Projects,,,,,,,,6.0
+475,Capitalism,,Projects,,,,,,,,7.0
+476,Fleet,,Projects,,,,,,,,8.0
+477,Innovation,,Projects,,,,,,,,9.0
+478,Canal,,Projects,,,,,,,,10.0
+479,Piazza,,Projects,,,,,,,,11.0
+480,Pageant,,Projects,,,,,,,,12.0
+481,Guildhall,,Projects,,,,,,,,13.0
+482,Fair,,Projects,,,,,,,,14.0
+483,Barracks,,Projects,,,,,,,,15.0
+484,Silos,,Projects,,,,,,,,16.0
+485,Crop Rotation,,Projects,,,,,,,,17.0
+486,City Gate,,Projects,,,,,,,,18.0
+487,Exploration,,Projects,,,,,,,,19.0
+488,Road Network,,Projects,,,,,,,,20.0
+489,The Swamp's Gift,,Boons,,,,,,,2.0,1.0
+490,The Earth's Gift,,Boons,,,,,,,3.0,2.0
+491,The Flame's Gift,,Boons,,,,,,,1.0,3.0
+492,The Forest's Gift,,Boons,,,,,,,5.0,4.0
+493,The River's Gift,,Boons,,,,,,,4.0,5.0
+494,The Field's Gift,,Boons,,,,,,,6.0,6.0
+495,The Sun's Gift,,Boons,,,,,,,7.0,7.0
+496,The Sea's Gift,,Boons,,,,,,,8.0,8.0
+497,The Wind's Gift,,Boons,,,,,,,9.0,9.0
+498,The Mountain's Gift,,Boons,,,,,,,11.0,10.0
+499,The Sky's Gift,,Boons,,,,,,,10.0,11.0
+500,The Moon's Gift,,Boons,,,,,,,12.0,12.0
+501,Delusion,,Hexes,,,,,,,1.0,1.0
+502,Poverty,,Hexes,,,,,,,6.0,2.0
+503,Locusts,,Hexes,,,,,,,2.0,3.0
+504,War,,Hexes,,,,,,,3.0,4.0
+505,Plague,,Hexes,,,,,,,4.0,5.0
+506,Envy,,Hexes,,,,,,,5.0,6.0
+507,Misery,,Hexes,,,,,,,9.0,7.0
+508,Greed,,Hexes,,,,,,,8.0,8.0
+509,Haunting,,Hexes,,,,,,,7.0,9.0
+510,Bad Omens,,Hexes,,,,,,,10.0,10.0
+511,Fear,,Hexes,,,,,,,11.0,11.0
+512,Famine,,Hexes,,,,,,,12.0,12.0

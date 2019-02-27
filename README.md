@@ -52,11 +52,11 @@ There are a few notable biases in the impact factor.  It appears to give more of
 
 ### Evaluation
 
-(Work in progress)
+To evaluate how well the impact factor correlates with card strength, I calculated the correlation coefficient between rankings based on the impact factor, and the 2014 Qvist rankings.  The Qvist rankings are broken up into several lists, so I just calculated the correlation coefficient for each one and took a weighted average.  These calculations can be found in "Metric evaluation.ipynb"
 
-Here I will compare the impact factor to gain percentage, another objective metric that is commonly used to measure card strength.  The idea is that the better metric will more closely reproduce the 2014 Qvist rankings.
+The impact factor performs slightly better than the most popular objective metric for card strength, the gain percentage of each card.  The average correlation coefficient for impact factor is 0.863, while that of the gain percentage rankings is 0.846.  This modest improvement holds true for the earlier years of Qvist rankings, but oddly it is a worse predictor for Qvist rankings 2015 onward.  Of course, since the data only extends out to 2013, you wouldn't expect any metric to be a good predictor of later rankings.
 
-This evaluation technique works because there are no free parameters in how impact factor or the gain percentage.  However, we can imagine tweaking how our metric is calculated in order to more closely fit the community rankings.  And if we did that, then we might worry about overfitting the rankings, subjective biases and all.  I have not performed this analysis yet, but there is a simple solution.  After fitting the metric to the 2014 rankings, the metric can then be evaluated on the 2013 and 2015 rankings.  If the metric correlates much better with 2014 rankings than either 2013 or 2015, this would suggest overfitting.
+I suspect that the best way to model community rankings would be to calculate a weighted sum of various metrics.  However, if we did that, then we might worry about overfitting the rankings, subjective biases and all.  I have not performed this analysis yet, but there is a simple solution.  After fitting the metric to the 2014 rankings, the metric can then be evaluated on the 2013 and 2015 rankings.  If the correlation with 2014 improves, but the correlation with 2013 and 2015 get worse, this suggests overfitting.
 
 ## Principal Component Analysis
 

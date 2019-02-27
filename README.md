@@ -40,7 +40,7 @@ Each game log has a complete set of information about the game.  They list the p
 
 Impact factor is formally defined by the following equation:
 
-$\mathrm{Impact}(X) = \sum_Y \Big | P(\mathrm{gain}(Y)|\mathrm{supply}(X)) - P(\mathrm{gain}(Y))\Big|$
+Impact(X) = sum_Y | P(gain(Y)|supply(X)) - P(gain(Y)) |
 
 X and Y are supply piles, and gain(Y) is the subset of games where Y is gained at least once, and supply(X) is the subset of games where X is available to be gained.  Further details are shown in "Impact factor.ipynb".
 
@@ -111,19 +111,19 @@ These are technical terms that I use throughout the repository.
 
 **Impact factor** - The impact factor of a supply pile tells you how much the presence of that card changes gain frequencies, relative to the average gain frequency.  The formal definition is:
 
-$\mathrm{Impact}(X) = \sum_Y \Big | P(\mathrm{gain}(Y)|\mathrm{supply}(X)) - P(\mathrm{gain}(Y))\Big|$
+Impact(X) = sum_Y | P(gain(Y)|supply(X)) - P(gain(Y)) |
 
 **Synergy factor** - The synergy factor is similar to the impact factor, but calculated from the gain percentages rather than gain frequencies.  The formal definition is:
 
-$\mathrm{Synergy}(X) = \sum_Y \Big| P(\mathrm{gain}(Y)|\mathrm{supply}(X)\&\mathrm{supply}(Y)) - P(\mathrm{gain}(Y)|\mathrm{supply}(Y))\Big|$
+Synergy(X) = sum_Y | P(gain(Y)|supply(X)&supply(Y)) - P(gain(Y)|supply(Y)) |
 
 **Promotion relation** - For two kingdom piles X and Y, I say that X promotes Y if the gain percentage of Y is increased when X is present.  The formal definition is:
 
-$\mathrm{prom}(X,Y) = P(\mathrm{gain}(Y)|\mathrm{supply}(X)\&\mathrm{supply}(Y)) - P(\mathrm{gain}(Y)|\mathrm{supply}(Y))$
+prom(X,Y) = P(gain(Y)|supply(X)&supply(Y)) - P(gain(Y)|supply(Y))
 
 **Love relation** - For two kingdom piles X and Y, I say that X loves Y if the gain percentage of X is increased relative to other piles, when Y is present.  This is notated love(X,Y).  love(X,Y) is related to prom(Y,X) by the following expression:
 
-$\mathrm{love}(X,Y) = \mathrm{prom}(Y,X) - \sum_{Y_i} \mathrm{prom}(Y_i,X) / N$
+love(X,Y) = prom(Y,X) - sum_Z (prom(Z,X)/N)
 
 **Principal Component Analysis (PCA)** - PCA is a standard unsupervised machine learning technique.  It tries to describe the variance in a set of data using a small number of dimensions ("components").
 

@@ -1,0 +1,316 @@
+------------ Game Setup ------------
+Supply cards: Fortress, Mining Village, Silk Road, Horn of Plenty, Hunting Party, Rabble, Rebuild, Royal Seal, Soothsayer, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+dnkywin - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+swordfishtrombone - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dnkywin - shuffles deck
+swordfishtrombone - shuffles deck
+dnkywin - draws Copper, Copper, Estate, Copper, Copper
+swordfishtrombone - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- dnkywin: turn 1 ----------
+dnkywin - plays 4 Copper
+dnkywin - buys Mining Village
+dnkywin - gains Mining Village
+dnkywin - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- swordfishtrombone: turn 1 ----------
+swordfishtrombone - plays 4 Copper
+swordfishtrombone - buys Silver
+swordfishtrombone - gains Silver
+swordfishtrombone - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- dnkywin: turn 2 ----------
+dnkywin - plays 3 Copper
+dnkywin - buys Silver
+dnkywin - gains Silver
+dnkywin - shuffles deck
+dnkywin - draws Mining Village, Estate, Copper, Silver, Copper
+ 
+---------- swordfishtrombone: turn 2 ----------
+swordfishtrombone - plays 3 Copper
+swordfishtrombone - buys Silver
+swordfishtrombone - gains Silver
+swordfishtrombone - shuffles deck
+swordfishtrombone - draws Estate, Estate, Silver, Copper, Copper
+ 
+---------- dnkywin: turn 3 ----------
+dnkywin - plays Mining Village
+dnkywin - draws Estate
+dnkywin - trashes Mining Village
+dnkywin - plays 2 Copper, 1 Silver
+dnkywin - buys Rebuild
+dnkywin - gains Rebuild
+dnkywin - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- swordfishtrombone: turn 3 ----------
+swordfishtrombone - plays 2 Copper, 1 Silver
+swordfishtrombone - buys Silver
+swordfishtrombone - gains Silver
+swordfishtrombone - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- dnkywin: turn 4 ----------
+dnkywin - plays 4 Copper
+dnkywin - buys Silver
+dnkywin - gains Silver
+dnkywin - draws Copper
+dnkywin - shuffles deck
+dnkywin - draws Copper, Copper, Silver, Rebuild
+ 
+---------- swordfishtrombone: turn 4 ----------
+swordfishtrombone - plays 4 Copper, 1 Silver
+swordfishtrombone - buys Soothsayer
+swordfishtrombone - gains Soothsayer
+swordfishtrombone - draws Estate, Copper
+swordfishtrombone - shuffles deck
+swordfishtrombone - draws Estate, Copper, Copper
+ 
+---------- dnkywin: turn 5 ----------
+dnkywin - plays Rebuild
+dnkywin - names Duchy
+dnkywin - reveals Estate
+dnkywin - trashes Estate
+dnkywin - gains Duchy
+dnkywin - plays 3 Copper, 1 Silver
+dnkywin - buys Rebuild
+dnkywin - gains Rebuild
+dnkywin - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- swordfishtrombone: turn 5 ----------
+swordfishtrombone - plays 3 Copper
+swordfishtrombone - buys Silver
+swordfishtrombone - gains Silver
+swordfishtrombone - draws Soothsayer, Copper, Silver, Copper, Silver
+ 
+---------- dnkywin: turn 6 ----------
+dnkywin - plays 3 Copper, 1 Silver
+dnkywin - buys Rebuild
+dnkywin - gains Rebuild
+dnkywin - draws Copper, Estate
+dnkywin - shuffles deck
+dnkywin - draws Rebuild, Copper, Copper
+ 
+---------- swordfishtrombone: turn 6 ----------
+swordfishtrombone - plays Soothsayer
+swordfishtrombone - gains Gold
+dnkywin - gains Curse
+dnkywin - draws Estate
+swordfishtrombone - plays 2 Copper, 2 Silver
+swordfishtrombone - buys Rebuild
+swordfishtrombone - gains Rebuild
+swordfishtrombone - draws Copper, Copper, Silver, Estate
+swordfishtrombone - shuffles deck
+swordfishtrombone - draws Copper
+ 
+---------- dnkywin: turn 7 ----------
+dnkywin - plays 3 Copper
+dnkywin - buys Silver
+dnkywin - gains Silver
+dnkywin - draws Rebuild, Duchy, Silver, Copper, Silver
+ 
+---------- swordfishtrombone: turn 7 ----------
+swordfishtrombone - plays 3 Copper, 1 Silver
+swordfishtrombone - buys Rebuild
+swordfishtrombone - gains Rebuild
+swordfishtrombone - draws Copper, Silver, Estate, Silver, Silver
+ 
+---------- dnkywin: turn 8 ----------
+dnkywin - plays Rebuild
+dnkywin - names Duchy
+dnkywin - shuffles deck
+dnkywin - reveals Copper, Copper, Copper, Rebuild, Curse, Silver, Rebuild, Copper, Estate
+dnkywin - discards: Copper, Copper, Copper, Rebuild, Curse, Silver, Rebuild, Copper
+dnkywin - trashes Estate
+dnkywin - gains Duchy
+dnkywin - plays 2 Silver, 1 Copper
+dnkywin - buys Rebuild
+dnkywin - gains Rebuild
+dnkywin - draws Copper, Estate, Copper
+dnkywin - shuffles deck
+dnkywin - draws Copper, Silver
+ 
+---------- swordfishtrombone: turn 8 ----------
+swordfishtrombone - plays 3 Silver, 1 Copper
+swordfishtrombone - buys Rebuild
+swordfishtrombone - gains Rebuild
+swordfishtrombone - draws Rebuild, Copper, Estate, Copper, Gold
+ 
+---------- dnkywin: turn 9 ----------
+dnkywin - plays 3 Copper, 1 Silver
+dnkywin - buys Duchy
+dnkywin - gains Duchy
+dnkywin - draws Copper, Curse, Duchy, Copper, Duchy
+ 
+---------- swordfishtrombone: turn 9 ----------
+swordfishtrombone - plays Rebuild
+swordfishtrombone - names Duchy
+swordfishtrombone - shuffles deck
+swordfishtrombone - reveals Copper, Soothsayer, Copper, Copper, Copper, Copper, Silver, Rebuild, Rebuild, Silver, Estate
+swordfishtrombone - discards: Copper, Soothsayer, Copper, Copper, Copper, Copper, Silver, Rebuild, Rebuild, Silver
+swordfishtrombone - trashes Estate
+swordfishtrombone - gains Duchy
+swordfishtrombone - plays 2 Copper, 1 Gold
+swordfishtrombone - buys Duchy
+swordfishtrombone - gains Duchy
+swordfishtrombone - draws Silver, Estate, Silver
+swordfishtrombone - shuffles deck
+swordfishtrombone - draws Copper, Gold
+ 
+---------- dnkywin: turn 10 ----------
+dnkywin - plays 2 Copper
+dnkywin - buys Estate
+dnkywin - gains Estate
+dnkywin - draws Rebuild, Silver, Rebuild, Copper, Copper
+ 
+---------- swordfishtrombone: turn 10 ----------
+swordfishtrombone - plays 2 Silver, 1 Copper, 1 Gold
+swordfishtrombone - buys Province
+swordfishtrombone - gains Province
+swordfishtrombone - draws Duchy, Rebuild, Copper, Copper, Silver
+ 
+---------- dnkywin: turn 11 ----------
+dnkywin - plays Rebuild
+dnkywin - names Duchy
+dnkywin - shuffles deck
+dnkywin - reveals Silver, Rebuild, Rebuild, Duchy, Curse, Copper, Duchy, Duchy, Copper, Silver, Copper, Copper, Estate
+dnkywin - discards: Silver, Rebuild, Rebuild, Duchy, Curse, Copper, Duchy, Duchy, Copper, Silver, Copper, Copper
+dnkywin - trashes Estate
+dnkywin - gains Duchy
+dnkywin - plays Rebuild
+dnkywin - names Duchy
+dnkywin - reveals Estate
+dnkywin - trashes Estate
+dnkywin - gains Duchy
+dnkywin - plays 2 Copper, 1 Silver
+dnkywin - buys Mining Village
+dnkywin - gains Mining Village
+dnkywin - draws Copper
+dnkywin - shuffles deck
+dnkywin - draws Duchy, Silver, Duchy, Copper
+ 
+---------- swordfishtrombone: turn 11 ----------
+swordfishtrombone - plays Rebuild
+swordfishtrombone - names Duchy
+swordfishtrombone - reveals Rebuild, Rebuild, Duchy, Copper, Estate
+swordfishtrombone - discards: Rebuild, Rebuild, Duchy, Copper
+swordfishtrombone - trashes Estate
+swordfishtrombone - gains Duchy
+swordfishtrombone - plays 2 Copper, 1 Silver
+swordfishtrombone - buys Silk Road
+swordfishtrombone - gains Silk Road
+swordfishtrombone - draws Soothsayer, Copper, Silver, Copper, Copper
+ 
+---------- dnkywin: turn 12 ----------
+dnkywin - plays 2 Copper, 1 Silver
+dnkywin - buys Mining Village
+dnkywin - gains Mining Village
+dnkywin - draws Copper, Rebuild, Copper, Duchy, Rebuild
+ 
+---------- swordfishtrombone: turn 12 ----------
+swordfishtrombone - plays Soothsayer
+swordfishtrombone - gains Gold
+dnkywin - gains Curse
+dnkywin - draws Copper
+swordfishtrombone - plays 3 Copper, 1 Silver
+swordfishtrombone - buys Hunting Party
+swordfishtrombone - gains Hunting Party
+swordfishtrombone - shuffles deck
+swordfishtrombone - draws Hunting Party, Gold, Silver, Rebuild, Copper
+ 
+---------- dnkywin: turn 13 ----------
+dnkywin - plays Rebuild
+dnkywin - names Province
+dnkywin - reveals Rebuild, Duchy
+dnkywin - discards Rebuild
+dnkywin - trashes Duchy
+dnkywin - gains Province
+dnkywin - plays Rebuild
+dnkywin - names Province
+dnkywin - reveals Copper, Curse, Copper, Silver, Silver, Mining Village, Rebuild, Duchy
+dnkywin - discards: Copper, Curse, Copper, Silver, Silver, Mining Village, Rebuild
+dnkywin - trashes Duchy
+dnkywin - gains Province
+dnkywin - shuffles deck
+dnkywin - draws Copper, Rebuild, Copper, Curse, Mining Village
+ 
+---------- swordfishtrombone: turn 13 ----------
+swordfishtrombone - plays Rebuild
+swordfishtrombone - names Province
+swordfishtrombone - reveals Silver, Duchy
+swordfishtrombone - discards Silver
+swordfishtrombone - trashes Duchy
+swordfishtrombone - gains Province
+swordfishtrombone - plays Hunting Party
+swordfishtrombone - draws Estate
+swordfishtrombone - reveals hand: Gold, Silver, Copper, Estate
+swordfishtrombone - reveals Silk Road
+swordfishtrombone - places Silk Road in hand
+swordfishtrombone - plays 1 Gold, 1 Silver, 1 Copper
+swordfishtrombone - buys Nobles
+swordfishtrombone - gains Nobles
+swordfishtrombone - draws Soothsayer, Duchy, Copper, Copper, Rebuild
+ 
+---------- dnkywin: turn 14 ----------
+dnkywin - plays Mining Village
+dnkywin - draws Mining Village
+dnkywin - trashes Mining Village
+dnkywin - plays Mining Village
+dnkywin - draws Copper
+dnkywin - trashes Mining Village
+dnkywin - plays Rebuild
+dnkywin - names Province
+dnkywin - reveals Copper, Silver, Duchy
+dnkywin - discards: Copper, Silver
+dnkywin - trashes Duchy
+dnkywin - gains Province
+dnkywin - plays 3 Copper
+dnkywin - buys Nobles
+dnkywin - gains Nobles
+dnkywin - draws Province, Province, Rebuild, Duchy, Silver
+ 
+---------- swordfishtrombone: turn 14 ----------
+swordfishtrombone - plays Rebuild
+swordfishtrombone - names Province
+swordfishtrombone - reveals Copper, Silver, Rebuild, Province, Duchy
+swordfishtrombone - discards: Copper, Silver, Rebuild, Province
+swordfishtrombone - trashes Duchy
+swordfishtrombone - gains Province
+swordfishtrombone - plays Soothsayer
+swordfishtrombone - gains Gold
+dnkywin - gains Curse
+dnkywin - draws Rebuild
+swordfishtrombone - plays 2 Copper
+swordfishtrombone - buys Estate
+swordfishtrombone - gains Estate
+swordfishtrombone - draws Copper, Silver, Gold, Copper, Copper
+ 
+---------- dnkywin: turn 15 ----------
+dnkywin - plays Rebuild
+dnkywin - names Province
+dnkywin - reveals Copper, Duchy
+dnkywin - discards Copper
+dnkywin - trashes Duchy
+dnkywin - gains Province
+dnkywin - plays Rebuild
+dnkywin - names Province
+dnkywin - shuffles deck
+dnkywin - reveals Rebuild, Copper, Curse, Silver, Copper, Copper, Province, Copper, Copper, Copper, Curse, Rebuild, Nobles
+dnkywin - discards: Rebuild, Copper, Curse, Silver, Copper, Copper, Province, Copper, Copper, Copper, Curse, Rebuild
+dnkywin - trashes Nobles
+dnkywin - gains Province
+dnkywin - draws Province, Silver, Copper, Curse
+dnkywin - shuffles deck
+dnkywin - draws Copper
+ 
+------------ Game Over ------------
+dnkywin - cards: 4 Rebuild, 7 Copper, 3 Silver, 5 Province, 1 Duchy, 3 Curse
+dnkywin - total victory points: 30
+dnkywin - turns: 15
+ 
+swordfishtrombone - cards: 3 Rebuild, 1 Nobles, 1 Hunting Party, 1 Soothsayer, 7 Copper, 4 Silver, 3 Gold, 3 Province, 2 Estate, 1 Silk Road, 1 Duchy
+swordfishtrombone - total victory points: 27
+swordfishtrombone - turns: 14
+ 
+1st place: dnkywin
+2nd place: swordfishtrombone
+ 
